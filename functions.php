@@ -29,9 +29,12 @@ function get_random_vers($conn){
         trigger_error('Invalid query: ' . $conn->error);       
     } else {
         echo "<br>";
+        $tab = "&#9;";
         while($row = $result->fetch_assoc()) {
-            echo "<div id='szerzo'>".$row["szerzo"]."</div> - <div id='cim'>".$row["cim"]."</div><br>";
-            echo "<div id='vers'>".nl2br($row["torzs"])."</div>";
+            echo "<div class ='versbody'>";
+                echo "<div class='d-flex justify-content-center' id='vers_header'>".$row["szerzo"]. $tab ."-". $tab."".$row["cim"]."</div><br><br>";
+                echo "<div class='d-flex justify-content-center' id='vers'>".nl2br($row["torzs"])."</div>";
+            echo "</div>";
             echo "<br><br>";
         }
     }

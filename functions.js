@@ -1,0 +1,1 @@
+const reloadPage = _ => location.reload();

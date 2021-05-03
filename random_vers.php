@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Napi vers</title>
+    <title>Meglepetés</title>
     <script src="jquery-3.6.0.min.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
@@ -52,10 +52,10 @@
         <div class="collapse navbar-collapse" id="hamburger">            
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-item nav-link active"  href="upload.php">Feltöltés</a>
+                    <a class="nav-item nav-link"  href="upload.php">Feltöltés</a>
                 </li>
                 <li>
-                    <a class="nav-item nav-link" href="random_vers.php">Meglepetés vers vers</a>
+                    <a class="nav-item nav-link active" href="#">Meglepetés vers</a>
                 </li>
 <!--
                 <li class="nav-item">
@@ -69,26 +69,28 @@
         </div>
     </nav>
 </header>
+<div class="button-center">
+    <button class="btn btn-light center" onclick="reloadPage()">Random vers</button>
+</div>
     <div class="bal" id="bal-kep-cont " >    
        
         <img alt="oldalsokep" src="grafika.png" id="grafika1" >
      
     </div>
+    
+    
     <div class="main" id="main">
-        <div class="">
             <?php 
-                
 
-                get_napi_vers($conn); 
+                get_random_vers($conn); 
             ?>
-        </div>
     </div>
     <div class="jobb" id="jobb-kep-cont">
         <img alt="oldalsokep" src="grafika.png" class="img-hor-tukr" id="grafika2">       
     </div>
 
 <script src="darkmode.js"></script>   
-
+<script src="functions.js"></script>
 
 </body>
 </html>
