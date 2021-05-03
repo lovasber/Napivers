@@ -55,7 +55,7 @@
                     <a class="nav-item nav-link active"  href="upload.php">Feltöltés</a>
                 </li>
                 <li>
-                    <a class="nav-item nav-link" href="random_vers.php">Meglepetés vers vers</a>
+                    <a class="nav-item nav-link" href="random_vers.php">Meglepetés vers</a>
                 </li>
 <!--
                 <li class="nav-item">

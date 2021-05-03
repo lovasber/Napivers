@@ -120,9 +120,7 @@ input, select, textarea{
   transform: rotateY(180deg); 
 }
 
-img{
-  width: 100%;
-}
+
 
 .bal {
   box-sizing: border-box;
@@ -133,6 +131,11 @@ img{
   width: 20%;
 }
 
+.bal > img{
+  width: 100%;
+}
+
+
 .jobb {
   box-sizing: border-box;
   position: fixed;
@@ -140,6 +143,9 @@ img{
   height: 400px;
   width: 20%;
   top: 40%;
+}
+.jobb > img{
+  width: 100%;
 }
 
 .main{
@@ -160,4 +166,5 @@ img{
   align-items: center;
   margin-top: 25px;
   margin-bottom: 25px;
+  
 }
