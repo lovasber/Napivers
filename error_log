@@ -1,0 +1,174 @@
+[23-Mar-2021 17:58:07 Europe/Budapest] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lovasit/public_html/napivers/cronjob.php on line 8
+[23-Mar-2021 18:01:27 Europe/Budapest] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lovasit/public_html/napivers/cronjob.php on line 8
+[23-Mar-2021 18:01:27 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 9
+[23-Mar-2021 18:01:27 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home/lovasit/public_html/napivers/cronjob.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 13
+[23-Mar-2021 18:01:37 Europe/Budapest] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lovasit/public_html/napivers/cronjob.php on line 8
+[23-Mar-2021 18:01:37 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 9
+[23-Mar-2021 18:01:37 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home/lovasit/public_html/napivers/cronjob.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 13
+[23-Mar-2021 18:01:46 Europe/Budapest] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lovasit/public_html/napivers/cronjob.php on line 8
+[23-Mar-2021 18:01:46 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 9
+[23-Mar-2021 18:01:46 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home/lovasit/public_html/napivers/cronjob.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 13
+[23-Mar-2021 18:02:55 Europe/Budapest] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lovasit/public_html/napivers/cronjob.php on line 8
+[23-Mar-2021 18:02:55 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 9
+[23-Mar-2021 18:02:55 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home/lovasit/public_html/napivers/cronjob.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 13
+[23-Mar-2021 18:02:57 Europe/Budapest] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lovasit/public_html/napivers/cronjob.php on line 8
+[23-Mar-2021 18:02:57 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 9
+[23-Mar-2021 18:02:57 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home/lovasit/public_html/napivers/cronjob.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 13
+[23-Mar-2021 18:03:59 Europe/Budapest] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lovasit/public_html/napivers/cronjob.php on line 8
+[23-Mar-2021 18:03:59 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 9
+[23-Mar-2021 18:03:59 Europe/Budapest] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 18
+[23-Mar-2021 18:03:59 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/lovasit/public_html/napivers/cronjob.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 26
+[23-Mar-2021 18:05:28 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/lovasit/public_html/napivers/cronjob.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 24
+[23-Mar-2021 18:06:56 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/lovasit/public_html/napivers/cronjob.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 24
+[23-Mar-2021 18:07:56 Europe/Budapest] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'lovasit_lovasBertalan'@'cullinan.versanus.eu' to database 'lovasit_napivers' in /home/lovasit/public_html/napivers/cronjob.php on line 6
+[23-Mar-2021 18:07:56 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 7
+[23-Mar-2021 18:07:56 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home/lovasit/public_html/napivers/cronjob.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 11
+[23-Mar-2021 18:09:01 Europe/Budapest] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'lovasit_lovasBertalan'@'cullinan.versanus.eu' to database 'lovasit_napivers' in /home/lovasit/public_html/napivers/cronjob.php on line 6
+[23-Mar-2021 18:09:01 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 7
+[23-Mar-2021 18:09:01 Europe/Budapest] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 16
+[23-Mar-2021 18:09:01 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/lovasit/public_html/napivers/cronjob.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 24
+[23-Mar-2021 18:11:18 Europe/Budapest] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'lovasit_lovasBertalan'@'cullinan.versanus.eu' to database 'lovasit_napivers' in /home/lovasit/public_html/napivers/cronjob.php on line 6
+[23-Mar-2021 18:11:18 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 7
+[23-Mar-2021 18:11:18 Europe/Budapest] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 16
+[23-Mar-2021 18:11:18 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/lovasit/public_html/napivers/cronjob.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 24
+[23-Mar-2021 18:12:44 Europe/Budapest] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'lovasit_lovasBertalan'@'cullinan.versanus.eu' to database 'lovasit_napivers' in /home/lovasit/public_html/napivers/cronjob.php on line 6
+[23-Mar-2021 18:12:44 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 7
+[23-Mar-2021 18:12:44 Europe/Budapest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 16
+[23-Mar-2021 18:12:44 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/lovasit/public_html/napivers/cronjob.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/cronjob.php on line 24
+[23-Mar-2021 18:14:11 Europe/Budapest] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'lovasit_lovasBertalan'@'cullinan.versanus.eu' to database 'lovasit_napivers' in /home/lovasit/public_html/napivers/cronjob.php on line 6
+[23-Mar-2021 18:14:11 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 7
+[23-Mar-2021 18:14:11 Europe/Budapest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 17
+[23-Mar-2021 18:14:11 Europe/Budapest] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 31
+[23-Mar-2021 18:15:02 Europe/Budapest] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'lovasit_lovasBertalan'@'cullinan.versanus.eu' to database 'lovasit_napivers' in /home/lovasit/public_html/napivers/cronjob.php on line 6
+[23-Mar-2021 18:15:02 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 7
+[23-Mar-2021 18:15:02 Europe/Budapest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 17
+[23-Mar-2021 18:15:02 Europe/Budapest] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 31
+[23-Mar-2021 18:21:52 Europe/Budapest] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'lovasit_lovasBertalan'@'cullinan.versanus.eu' to database 'lovasit_napivers' in /home/lovasit/public_html/napivers/cronjob.php on line 6
+[23-Mar-2021 18:21:52 Europe/Budapest] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 7
+[23-Mar-2021 18:21:52 Europe/Budapest] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 17
+[23-Mar-2021 18:21:52 Europe/Budapest] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/lovasit/public_html/napivers/cronjob.php on line 31
+[24-Mar-2021 22:30:53 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined function get_napi_vers() in /home/lovasit/public_html/napivers/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lovasit/public_html/napivers/index.php on line 34
+[24-Mar-2021 23:36:25 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'Szab\xC3\xB3 L\xC5\x91rinc', 'M\xC3\xA1jusi Orgonas...')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:38:29 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'asdf', 'asdf')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:40:17 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'asdf', 'asdf')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:40:21 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'asdf', 'asdf')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:40:23 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'asdf', 'asdf')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:42:15 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'asdf', 'asdf')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:42:16 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'asdf', 'asdf')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:43:26 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'asdf', 'asdf')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:43:28 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'asdf', 'asdf')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:46:43 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'fff', 'ff')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:47:48 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'asdf', 'asdf')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:47:54 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'ff', 'ff')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:49:07 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'ff', 'ff')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:49:14 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'fff', 'fff')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:50:08 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'fff', 'fff')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:50:13 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'fff', 'ffff')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136
+[24-Mar-2021 23:54:52 Europe/Budapest] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/lovasit/public_html/napivers/functions.php:136
+Stack trace:
+#0 /home/lovasit/public_html/napivers/upload.php(58): is_mar_letezo_vers(Object(mysqli), 'fff', 'ffff')
+#1 {main}
+  thrown in /home/lovasit/public_html/napivers/functions.php on line 136

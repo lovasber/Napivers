@@ -1,0 +1,24 @@
+ - lesz egy "napi vers" ami 24 óráig ugyanaz ✅
+ - Vers feltöltés eőtt ellenőrizni, hogy már szerepel e az adatbázisban ✅
+ - Frissítésnél ne töltse fel újra! ✅
+ - grafika ✅
+
+ - adatbázis újratervezés: Költő mint attribútum
+    - feltöltött verseket ideiglenes táblába -> adminok ellenőrzik hogy valid e a vers
+ - lehet majd böngészni is
+ - logo 
+ - like
+ - alkalmazás reggel 9kor küldjön értesítést 
+ - random vers oldal
+
+ ideiglenes tábla:
+   - id-t ne másolja!
+
+
+
+
+BUGOK:
+- mozzillában nem látszik a logo
+
+
+
